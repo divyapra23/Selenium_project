@@ -9,4 +9,4 @@ modified
 
 Just some changes to learn branching and merging
 
-upadtig readme on the new branch version1 - this is a change in master
+upadtig readme on the new branch version1 - cause trouble in version1
